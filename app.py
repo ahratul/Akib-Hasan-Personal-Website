@@ -132,6 +132,38 @@ st.write(
 """
 )
 
+# -----education-history------
+
+st.write('\n')
+st.subheader("Education History")
+st.write("---")
+
+# --- Education 1
+st.write("🏫",
+         "** Bachelor of Science in Electronic and Electrical Engineering | American International University-Bangladesh**")
+st.write("05/2015 - 02/2020")
+st.write(
+    """
+- ► Digital Design with System Verilog, VHDL and FPGAs.
+- ► Microwave Engineering.
+"""
+)
+
+# --- Education  2
+st.write('\n')
+st.write("🏫", "** Master’s in communication system and Networking | Technische Hochschule Köln **")
+st.write("04/2020 - Present")
+st.write(
+    """
+- ► Machine Learning
+- ► Large Cloud Based Software Development
+- ► Next Generation Networking
+- ► Digital Signal Processing.
+- ► Cryptography.
+
+"""
+)
+
 # --- WORK HISTORY ---
 st.write('\n')
 st.subheader("Work History")
