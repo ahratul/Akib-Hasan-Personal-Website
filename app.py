@@ -13,9 +13,7 @@ profile_pic = current_dir / "assets" / "cv.jpg"
 PAGE_TITLE = "Digital CV | Md Akib Hasan"
 PAGE_ICON = ":wave:"
 NAME = "Md Akib Hasan"
-DESCRIPTION = """Bringing forth an in-depth understanding of printing and strong technical abilities relating to 
-working with the machines used during production. A strong team player with excellent collaboration skills, 
-and a commitment to maximizing the production process within a facility. """
+DESCRIPTION = """ Software Developer with Specialized in Cloud Computing, Experience working as a Data Analyst. """
 
 EMAIL = "ahratul740@gmail.com"
 
@@ -115,9 +113,9 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻   Programming: Python (Scikit-learn, Pandas), SQL, VBAS
+- 👩‍💻   Programming: Python (Scikit-learn, Pandas), SQL, Big Query
 - 📊     Data Visualization: PowerBi, Plotly
-- 📚     Modeling: Logistic regression, Linear regression, Decision tree, Neural Network
+- 📚     Modeling: Logistic Regression, Linear regression, Decision tree, Neural Network, Anomaly Detection
 - ☁     Cloud Computing: AWS, GCP, Oracle,Azure
 - 🗄️     Databases: Postgres, MongoDB, MySQL, Oracle
 - 🧮️     API: Flask , Fast, Lambda
