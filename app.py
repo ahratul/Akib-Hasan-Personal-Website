@@ -215,7 +215,7 @@ for project, link in PUBLICATIONS.items():
 
 # --- Hands_on_projects ---
 st.write('\n')
-st.subheader("👨‍🔬 Some of my Python Projects 🐍🐍 ")
+st.subheader("👨‍🔬 👨‍🔬 Some of my Python Projects 🐍🐍 ")
 st.write("---")
 for project, link in HANDS_ON_PROJECT.items():
     st.write(f"[{project}]({link})")
