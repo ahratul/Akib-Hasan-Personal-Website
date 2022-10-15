@@ -33,6 +33,11 @@ PUBLICATIONS = {
     "and maintenance of a surrounding area. )IEEE · Jan 15, 2019":
         "https://ieeexplore.ieee.org/document/8644476/references#references",
 }
+HANDS_ON_PROJECT = {
+    "🧪  Neural-Network-With-Streamlit-Flask-Web-Visualizer": "https://ahratul-neural-network-with-streamlit-web-visualizer-app-xxvnbm.streamlitapp.com/",
+    "🧪  Support-Vector-Machine-LogisticRegression-RandomForestClassifier-With-Streamlit-": "https://ahratul-support-vector-machine-logisticregression-ra-app-giizd1.streamlitapp.com/",
+    "🧪  Data-Visualization-Streamlit-Web-App": "https://ahratul-data-visulalization-streamlit-web-app-app-12bty7.streamlitapp.com/",
+}
 
 PROJECTS = {
     "🏆 Developing APIs with Google Cloud's Apigee API Platform": "https://www.coursera.org/account/accomplishments/specialization/certificate/WJ3YGE2DMXME",
@@ -207,6 +212,14 @@ st.subheader("Publications")
 st.write("---")
 for project, link in PUBLICATIONS.items():
     st.write(f"[{project}]({link})")
+
+# --- Hands_on_projects ---
+st.write('\n')
+st.subheader("Hands On Projects with Python,Streamlit, Pandas. ")
+st.write("---")
+for project, link in HANDS_ON_PROJECT.items():
+    st.write(f"[{project}]({link})")
+
 
 # --- Projects & Accomplishments ---
 st.write('\n')
