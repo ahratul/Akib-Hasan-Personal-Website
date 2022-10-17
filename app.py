@@ -10,7 +10,7 @@ resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "cv.jpg"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Md Akib Hasan"
+PAGE_TITLE = " CV | Md Akib Hasan"
 PAGE_ICON = ":wave:"
 NAME = "Md Akib Hasan"
 DESCRIPTION = """ Software Developer with Specialized in Cloud Computing, Experience working as a Data Analyst. """
@@ -40,9 +40,12 @@ HANDS_ON_PROJECT = {
 }
 
 PROJECTS = {
-    "🏆 Developing APIs with Google Cloud's Apigee API Platform": "https://www.coursera.org/account/accomplishments/specialization/certificate/WJ3YGE2DMXME",
-    "🏆 Preparing for the Google Cloud Associate Cloud Engineer Exam": "https://www.coursera.org/account/accomplishments/certificate/XSNHZXFKYDZC",
-    "🏆 Essential Google Cloud Infrastructure: Foundation": "https://www.coursera.org/account/accomplishments/certificate/B9J3HJBUJUZA",
+    "🏆  Build a Machine Learning Web App with Streamlit and Python": "https://www.coursera.org/account/accomplishments/certificate/X39R728EYLHU",
+    "🏆  Create digit recognition web app with Streamlit": 'https://www.coursera.org/account/accomplishments/certificate/YMB27RX2SU25',
+    "🏆  Deploy a Web Application in AWS Elastic Kubernetes Service": "https://www.coursera.org/account/accomplishments/certificate/7X7PBM4NNY9U",
+    "🏆  Developing APIs with Google Cloud's Apigee API Platform": "https://www.coursera.org/account/accomplishments/specialization/certificate/WJ3YGE2DMXME",
+    "🏆  Preparing for the Google Cloud Associate Cloud Engineer Exam": "https://www.coursera.org/account/accomplishments/certificate/XSNHZXFKYDZC",
+    "🏆  Essential Google Cloud Infrastructure: Foundation": "https://www.coursera.org/account/accomplishments/certificate/B9J3HJBUJUZA",
     "🏆  Google Cloud Fundamentals: Core Infrastructure": "https://www.coursera.org/account/accomplishments/certificate/LNK4JT5CU2SX",
     "🏆  Reliable Google Cloud Infrastructure: Design and Process": "https://www.coursera.org/account/accomplishments/certificate/GCLTPKVTEZNN",
     "🏆  Google Cloud Big Data and Machine Learning Fundamentals": "https://coursera.org/share/4e1957007b18571628bde76503275a5b",
@@ -58,7 +61,6 @@ PROJECTS = {
     "🏆  API Security on Google Cloud's Apigee API Platform": "https://www.coursera.org/account/accomplishments/certificate/PUVNCB2ULTTP",
     "🏆  Full Stack Software Developer Assessment": "https://www.coursera.org/account/accomplishments/certificate/2W43VWJGNT94",
     "🏆  Storing, Retrieving, and Processing JSON data with Python": "https://www.coursera.org/account/accomplishments/certificate/UNHTNDPG2LBC",
-    "🏆  Developing APIs with Google Cloud's Apigee API Platform": "https://www.coursera.org/account/accomplishments/specialization/certificate/WJ3YGE2DMXME",
     "🏆  DevOps on AWS: Release and Deploy": "https://www.coursera.org/account/accomplishments/certificate/TPEKYKUURG78",
     "🏆  Containerization Using Docker": "https://www.coursera.org/account/accomplishments/certificate/Z8RUHPJ7VRYY",
     "🏆  Beginners Guide to YAML Syntax": "https://www.coursera.org/account/accomplishments/certificate/8QWFG6NCMRNM",
@@ -219,7 +221,6 @@ st.subheader("👨‍🔬 👨‍🔬 Some of my Python Projects 🐍🐍 ")
 st.write("---")
 for project, link in HANDS_ON_PROJECT.items():
     st.write(f"[{project}]({link})")
-
 
 # --- Projects & Accomplishments ---
 st.write('\n')
