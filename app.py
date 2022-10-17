@@ -10,7 +10,7 @@ resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "cv.jpg"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = " CV | Md Akib Hasan"
+PAGE_TITLE = "Serendipity | Md Akib Hasan"
 PAGE_ICON = ":wave:"
 NAME = "Md Akib Hasan"
 DESCRIPTION = """ Software Developer with Specialized in Cloud Computing, Experience working as a Data Analyst. """
@@ -37,6 +37,8 @@ HANDS_ON_PROJECT = {
     "🧪  Neural-Network-With-Streamlit-Flask-Web-Visualizer": "https://ahratul-neural-network-with-streamlit-web-visualizer-app-xxvnbm.streamlitapp.com/",
     "🧪  Support-Vector-Machine-LogisticRegression-RandomForestClassifier-With-Streamlit-": "https://ahratul-support-vector-machine-logisticregression-ra-app-giizd1.streamlitapp.com/",
     "🧪  Data-Visualization-Streamlit-Web-App": "https://ahratul-data-visulalization-streamlit-web-app-app-12bty7.streamlitapp.com/",
+    "🧪  Selenium-Architecture--In-Docker--Containers": "https://github.com/ahratul/Selenium-Architecture--In-Docker--Containers",
+
 }
 
 PROJECTS = {
