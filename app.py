@@ -38,6 +38,7 @@ HANDS_ON_PROJECT = {
     "🧪  Support-Vector-Machine-LogisticRegression-RandomForestClassifier-With-Streamlit-": "https://ahratul-support-vector-machine-logisticregression-ra-app-giizd1.streamlitapp.com/",
     "🧪  Data-Visualization-Streamlit-Web-App": "https://ahratul-data-visulalization-streamlit-web-app-app-12bty7.streamlitapp.com/",
     "🧪  Selenium-Architecture--In-Docker--Containers": "https://github.com/ahratul/Selenium-Architecture--In-Docker--Containers",
+    "🧪  European-Train-Stations-Maps": "https://ahratul-european-train-stations-maps-app-g3jlbi.streamlitapp.com/",
 
 }
 
