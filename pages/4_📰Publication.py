@@ -3,7 +3,6 @@ import loaders as hc
 import time
 
 st.title("Publications")
-st.subheader("📰Publications📰")
 st.write("---")
 with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
     time.sleep(2)
@@ -18,6 +17,7 @@ PUBLICATIONS = {
 
 # --- Publications ---
 st.write('\n')
+st.subheader("📰Publications📰")
 st.write("---")
 for project, link in PUBLICATIONS.items():
     st.write(f"[{project}]({link})")
