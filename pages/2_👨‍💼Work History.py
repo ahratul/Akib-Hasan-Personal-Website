@@ -1,0 +1,84 @@
+import streamlit as st
+import hydralit_components as hc
+import time
+
+
+
+st.title("👨‍💼Work History👨‍💼")
+
+with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
+    time.sleep(2)
+# --- WORK HISTORY ---
+st.write('\n')
+st.subheader("Work History")
+st.write("---")
+
+# --- JOB 1
+st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions**")
+st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
+st.write("10/2021 - 12/2021")
+st.write(
+    """
+- ► Cleaned unstructured data for data analysis and Confidential tasks and pipelines.
+- ► Analyzed over 22 years data (2000-2022) to make Dose Response model
+- ► Used Python and the Soil API to get raw data and reprocessed it for a data science tasks .
+- ► Used Natural Language Processing ML libraries to train a Robust Regression model for Nonlinear data analysis.
+"""
+)
+
+# --- JOB 2
+st.write('\n')
+st.write("🚧", "** Working Student Software Developer | xarvio® Digital Farming Solutions**")
+st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
+st.write("01/2022 - 08/2022")
+st.write(
+    """
+- ► Proficient in creating high-volume micro services and APIs.
+- ► Expertise in Django, Python, and Python application frameworks like Django REST, Flask, and Fast Api.
+- ► Compiled, studied, and inferred large amounts of data, modeling information to drive auto policy pricing.
+- ► Working with server less Amazon Web Services (AWS) technologies Like Lambda to minimize the cost.
+- ► Proven track record with testing, editing, and debugging web apps
+
+"""
+)
+
+JOB_REFERENCE = {
+    "Job Reference From Previous Company ": "https://drive.google.com/file/d/1GeWT2y0mgHR9uiZOwXa3yQrQdOC_WbYX/view?usp=sharing",
+}
+
+# --- Job Reference ---
+st.write('\n')
+st.subheader("Job Reference")
+st.write("---")
+for project, link in JOB_REFERENCE.items():
+    st.write(f"[{project}]({link})")
+
+
+def local_css(file_name):
+        with open(file_name) as f:
+            st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
+
+local_css("styles/style.css")
+
+# Load Animation
+animation_symbol = "❄"
+
+st.markdown(
+        f"""
+        <div class="snowflake">{animation_symbol}</div>
+        <div class="snowflake">{animation_symbol}</div>
+        <div class="snowflake">{animation_symbol}</div>
+        <div class="snowflake">{animation_symbol}</div>
+        <div class="snowflake">{animation_symbol}</div>
+        <div class="snowflake">{animation_symbol}</div>
+        <div class="snowflake">{animation_symbol}</div>
+        <div class="snowflake">{animation_symbol}</div>
+        <div class="snowflake">{animation_symbol}</div>
+        <div class="snowflake">{animation_symbol}</div>
+
+
+
+        """,
+        unsafe_allow_html=True,
+    )
