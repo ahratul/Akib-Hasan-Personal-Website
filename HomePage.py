@@ -10,7 +10,7 @@ profile_pic = current_dir / "assets" / "cv.jpg"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Serendipity | Md Akib Hasan"
-PAGE_ICON = ":wave:"
+PAGE_ICON = "✨"
 NAME = "Md Akib Hasan"
 DESCRIPTION = """ Software Developer with Specialized in Cloud Computing, Experience working as a Data Analyst. """
 
