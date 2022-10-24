@@ -3,7 +3,6 @@ import loaders as hc
 import time
 
 st.header(":mailbox: Get In Touch With Me!")
-st.subheader("Get In Touch With Me!")
 st.write("---")
 with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
     time.sleep(2)
