@@ -18,7 +18,6 @@ PUBLICATIONS = {
 
 # --- Publications ---
 st.write('\n')
-st.subheader("Publications")
 st.write("---")
 for project, link in PUBLICATIONS.items():
     st.write(f"[{project}]({link})")
