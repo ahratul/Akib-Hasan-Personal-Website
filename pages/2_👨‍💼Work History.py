@@ -2,8 +2,6 @@ import streamlit as st
 import hydralit_components as hc
 import time
 
-
-
 st.title("👨‍💼Work History👨‍💼")
 
 with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
@@ -55,8 +53,8 @@ for project, link in JOB_REFERENCE.items():
 
 
 def local_css(file_name):
-        with open(file_name) as f:
-            st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+    with open(file_name) as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 
 local_css("styles/style.css")
@@ -65,7 +63,7 @@ local_css("styles/style.css")
 animation_symbol = "❄"
 
 st.markdown(
-        f"""
+    f"""
         <div class="snowflake">{animation_symbol}</div>
         <div class="snowflake">{animation_symbol}</div>
         <div class="snowflake">{animation_symbol}</div>
@@ -80,5 +78,5 @@ st.markdown(
 
 
         """,
-        unsafe_allow_html=True,
-    )
+    unsafe_allow_html=True,
+)
