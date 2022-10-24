@@ -1,5 +1,5 @@
 import streamlit as st
-import hydralit_components as hc
+import loaders as hc
 import time
 
 st.title("Projects")
