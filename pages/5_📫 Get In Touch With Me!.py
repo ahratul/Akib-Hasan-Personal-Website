@@ -1,11 +1,9 @@
 import streamlit as st
-import hydralit_components as hc
-import time
+
 
 st.header(":mailbox: Get In Touch With Me!")
 
-with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
-    time.sleep(2)
+
 
 contact_form = """
 <form action="https://formsubmit.co/YOUREMAIL@EMAIL.COM" method="POST">

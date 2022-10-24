@@ -1,6 +1,5 @@
 import streamlit as st
-import hydralit_components as hc
-import time
+
 
 st.title("🏫 Education 🏫")
 
@@ -8,8 +7,7 @@ st.write('\n')
 st.subheader("Education History")
 st.write("---")
 
-with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
-    time.sleep(2)
+
 
 # --- Education  2
 st.write('\n')

@@ -1,10 +1,7 @@
 import streamlit as st
-import hydralit_components as hc
-import time
 
 st.title("Projects")
-with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
-    time.sleep(2)
+
 
 HANDS_ON_PROJECT = {
     "🧪  Neural-Network-With-Streamlit-Flask-Web-Visualizer": "https://ahratul-neural-network-with-streamlit-web-visualizer-app-xxvnbm.streamlitapp.com/",
