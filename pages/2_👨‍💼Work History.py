@@ -2,14 +2,13 @@ import streamlit as st
 import loaders as hc
 import time
 
+st.title("Work History")
 
-st.title("👨‍💼Work History👨‍💼")
-
-with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
-    time.sleep(2)
 # --- WORK HISTORY ---
 st.write('\n')
-st.subheader("Work History")
+st.subheader("👨‍💼Work History👨‍💼")
+with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
+    time.sleep(2)
 st.write("---")
 
 # --- JOB 1
