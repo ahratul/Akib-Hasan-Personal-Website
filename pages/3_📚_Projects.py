@@ -9,7 +9,7 @@ with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
     time.sleep(2)
 
 HANDS_ON_PROJECT = {
-    "🧪  Neural-Network-With-Streamlit-Flask-Web-Visualizer": "https://ahratul-neural-network-with-streamlit-web-visualizer-app-xxvnbm.streamlitapp.com/",
+    "🧪  Neural-Network-With-Streamlit-Flask-Web-Visualizer": "https://ahratul-neural-network-with-streamlit-flask-web-visu-app-7jni48.streamlitapp.com/",
     "🧪  Support-Vector-Machine-LogisticRegression-RandomForestClassifier-With-Streamlit-": "https://ahratul-support-vector-machine-logisticregression-ra-app-giizd1.streamlitapp.com/",
     "🧪  Data-Visualization-Streamlit-Web-App": "https://ahratul-data-visulalization-streamlit-web-app-app-12bty7.streamlitapp.com/",
     "🧪  Selenium-Architecture--In-Docker--Containers": "https://github.com/ahratul/Selenium-Architecture--In-Docker--Containers",
