@@ -16,8 +16,9 @@ HANDS_ON_PROJECT = {
     "🧪  European-Train-Stations-Maps": "https://ahratul-european-train-stations-maps-app-g3jlbi.streamlitapp.com/",
     "🧪  KMeans-Clustering-Customization-Streamlit-Web-App": "https://ahratul-kmeans-clustering-customization-streamlit-we-app-7srkf6.streamlitapp.com/",
     "🧪  Predicting-Wage-of-Players-And-the-nations": "https://ahratul-predicting-wage-of-player-app-bi5xhh.streamlitapp.com/",
-    "🧪  Hotel-Booking-Demand-EDA-Visualization": "https://ahratul-hotel-booking-demand-eda-visualization-app-j8kpox.streamlitapp.com/",
     "🧪  World-Population-EDA-With-World-Map-Visualization": "https://ahratul-world-population-eda-with-world-map-visualiz-app-dvnhfz.streamlitapp.com/",
+    "🧪  Hotel-Booking-Demand-EDA-Visualization": "https://ahratul-hotel-booking-demand-eda-visualization-app-j8kpox.streamlitapp.com/",
+
 
 }
 
