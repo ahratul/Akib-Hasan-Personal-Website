@@ -19,7 +19,6 @@ HANDS_ON_PROJECT = {
     "🧪  World-Population-EDA-With-World-Map-Visualization": "https://ahratul-world-population-eda-with-world-map-visualiz-app-dvnhfz.streamlitapp.com/",
     "🧪  Hotel-Booking-Demand-EDA-Visualization": "https://ahratul-hotel-booking-demand-eda-visualization-app-j8kpox.streamlitapp.com/",
 
-
 }
 
 PROJECTS = {
