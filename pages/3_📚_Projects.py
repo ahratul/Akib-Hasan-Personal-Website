@@ -18,7 +18,7 @@ HANDS_ON_PROJECT = {
     "🧪  Predicting-Wage-of-Players-And-the-nations": "https://ahratul-predicting-wage-of-player-app-bi5xhh.streamlitapp.com/",
     "🧪  World-Population-EDA-With-World-Map-Visualization": "https://ahratul-world-population-eda-with-world-map-visualiz-app-dvnhfz.streamlitapp.com/",
     "🧪  Hotel-Booking-Demand-EDA-Visualization": "https://ahratul-hotel-booking-demand-eda-visualization-app-j8kpox.streamlitapp.com/",
-
+    "🧪  Iris Classification WebApp": "https://ahratul-iris-species-webapp-with-streamlit-app-m8eaqt.streamlit.app/",
 }
 
 PROJECTS = {
