@@ -9,6 +9,7 @@ with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
     time.sleep(2)
 
 HANDS_ON_PROJECT = {
+    "🧪  Create-Growth-Models-With-Gompertz-Four-PL-Five-PL-Sigmoid-Power-Law": "https://ahratul-dose-responsecurved-with-different-grow-homepage-uy3vus.streamlit.app/",
     "🧪  Neural-Network-With-Streamlit-Flask-Web-Visualizer": "https://ahratul-neural-network-with-streamlit-flask-web-visu-app-7jni48.streamlitapp.com/",
     "🧪  Support-Vector-Machine-LogisticRegression-RandomForestClassifier-With-Streamlit-": "https://ahratul-support-vector-machine-logisticregression-ra-app-giizd1.streamlitapp.com/",
     "🧪  Data-Visualization-Streamlit-Web-App": "https://ahratul-data-visulalization-streamlit-web-app-app-12bty7.streamlitapp.com/",
