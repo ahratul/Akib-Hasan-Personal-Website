@@ -11,6 +11,14 @@ with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
     time.sleep(2)
 st.write("---")
 
+st.markdown("Current Job")
+st.write("🚧", "** Software Developer | Resolve Biosciences **")
+st.write("📍 Monheim am Rhein, North Rhine-Westphalia ,Germany 🇩🇪")
+st.write("15/11/2022-Present")
+
+st.write("---")
+
+
 # --- JOB 1
 st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions**")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
@@ -23,6 +31,9 @@ st.write(
 - ► Used Natural Language Processing ML libraries to train a Robust Regression model for Nonlinear data analysis.
 """
 )
+
+
+st.write("---")
 
 # --- JOB 2
 st.write('\n')
