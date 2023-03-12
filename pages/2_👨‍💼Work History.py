@@ -14,7 +14,7 @@ st.write("---")
 st.markdown("Current Job")
 st.write("🚧", "** DevOps Engineer | SPYCE5 GMBH **")
 st.write("📍 Berlin ,Germany 🇩🇪")
-st.write("Part-Time")
+st.write("Employment type: Part-Time")
 st.write("01/03/2023- Present")
 
 st.write("---")
@@ -24,7 +24,7 @@ st.write("---")
 # --- JOB 1
 st.write("🚧", "** Master Thesis Student | Fraunhofer Institute for Production Technology IPT **")
 st.write("📍 Aachen, North Rhine-Westphalia ,Germany 🇩🇪")
-st.write("Full-Time")
+st.write("Employment type: Full-Time")
 st.write("01/03/2023- Present")
 
 st.write("---")
@@ -32,7 +32,7 @@ st.write("---")
 
 st.write("🚧", "** Working Student Software Developer | Resolve Biosciences GMBH **")
 st.write("📍 Monheim am Rhein, North Rhine-Westphalia ,Germany 🇩🇪")
-st.write("Part-Time")
+st.write("Employment type : Part-Time")
 st.write("15/11/2022-28/02/2023")
 
 st.write("---")
@@ -41,7 +41,7 @@ st.write("---")
 
 st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions GMBH **")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
-st.write("Full-time")
+st.write("Employment type: Full-time")
 st.write("10/2021 - 12/2021")
 st.write(
     """
@@ -59,7 +59,7 @@ st.write("---")
 st.write('\n')
 st.write("🚧", "** Working Student Software Developer | xarvio® Digital Farming Solutions GMBH **")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
-st.write("Part-Time")
+st.write("Employment type Part-Time")
 st.write("01/2022 - 08/2022")
 st.write(
     """
