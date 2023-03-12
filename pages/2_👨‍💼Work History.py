@@ -12,7 +12,7 @@ with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
 st.write("---")
 
 st.markdown("Current Job")
-st.write("🚧", "** DevOps Engineer | SPYCE5s **")
+st.write("🚧", "** DevOps Engineer | SPYCE5 GMBH **")
 st.write("📍 Berlin ,Germany 🇩🇪")
 st.write("Part-Time")
 st.write("01/03/2023- Present")
