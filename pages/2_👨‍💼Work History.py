@@ -34,6 +34,14 @@ st.write("🚧", "** Working Student Software Developer | Resolve Biosciences GM
 st.write("📍 Monheim am Rhein, North Rhine-Westphalia ,Germany 🇩🇪")
 st.write("Employment type : Part-Time")
 st.write("15/11/2022-28/02/2023")
+st.write(
+    """
+- ► Apache Airflow: Used Apache Airflow to schedule and automate data pipeline workflows for molecular cartography analysis.
+- ► OpenCV:  Used OpenCV to develop computer vision algorithms for processing and analyzing molecular imaging data in molecular cartography.
+- ► Computer Vision: Used Computer vision techniques to extract information from molecular imaging data in order to visualize molecular structures and analyze molecular interactions in molecular cartography.
+
+"""
+)
 
 st.write("---")
 
