@@ -27,6 +27,13 @@ st.write("01/03/2023- Present")
 
 st.write("---")
 
+st.markdown("Current Job")
+st.write("🚧", "** Software Developer | Resolve Biosciences **")
+st.write("📍 Monheim am Rhein, North Rhine-Westphalia ,Germany 🇩🇪")
+st.write("15/11/2022-28/02/2023")
+
+st.write("---")
+
 # --- JOB 2
 
 st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions**")
