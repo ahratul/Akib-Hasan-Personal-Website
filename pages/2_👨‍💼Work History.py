@@ -6,7 +6,7 @@ st.title("Work History")
 
 # --- WORK HISTORY ---
 st.write('\n')
-st.subheader("👨‍💼Work History👨‍💼")
+st.subheader(                       "👨‍💼Work History👨‍💼"                   )
 with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
     time.sleep(2)
 st.write("---")
