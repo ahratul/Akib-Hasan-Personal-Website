@@ -17,12 +17,7 @@ st.write("📍 Berlin ,Germany 🇩🇪")
 st.write("01/03/2023- Present")
 
 st.write("---")
-st.markdown("Current Job")
-st.write("🚧", "** DevOps Engineer | SPYCE5s **")
-st.write("📍 Berlin ,Germany 🇩🇪")
-st.write("01/03/2023- Present")
 
-st.write("---")
 
 
 # --- JOB 1
