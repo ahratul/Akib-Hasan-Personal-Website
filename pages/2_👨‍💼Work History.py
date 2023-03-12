@@ -12,14 +12,28 @@ with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
 st.write("---")
 
 st.markdown("Current Job")
-st.write("🚧", "** Software Developer | Resolve Biosciences **")
-st.write("📍 Monheim am Rhein, North Rhine-Westphalia ,Germany 🇩🇪")
-st.write("15/11/2022-Present")
+st.write("🚧", "** DevOps Engineer | SPYCE5s **")
+st.write("📍 Berlin ,Germany 🇩🇪")
+st.write("01/03/2023- Present")
+
+st.write("---")
+st.markdown("Current Job")
+st.write("🚧", "** DevOps Engineer | SPYCE5s **")
+st.write("📍 Berlin ,Germany 🇩🇪")
+st.write("01/03/2023- Present")
 
 st.write("---")
 
 
 # --- JOB 1
+st.write("🚧", "** Master Thesis Student | Fraunhofer Institute for Production Technology IPT **")
+st.write("📍 Aachen, North Rhine-Westphalia ,Germany 🇩🇪")
+st.write("01/03/2023- Present")
+
+st.write("---")
+
+# --- JOB 2
+
 st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions**")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
 st.write("10/2021 - 12/2021")
@@ -35,7 +49,7 @@ st.write(
 
 st.write("---")
 
-# --- JOB 2
+# --- JOB 3
 st.write('\n')
 st.write("🚧", "** Working Student Software Developer | xarvio® Digital Farming Solutions**")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
