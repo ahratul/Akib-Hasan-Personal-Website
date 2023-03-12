@@ -73,7 +73,8 @@ st.write(
 )
 
 JOB_REFERENCE = {
-    "Job Reference From Previous Company ": "https://drive.google.com/file/d/1GeWT2y0mgHR9uiZOwXa3yQrQdOC_WbYX/view?usp=sharing",
+    "Job Reference From Previous Company ": "https://drive.google.com/file/d/1GeWT2y0mgHR9uiZOwXa3yQrQdOC_WbYX/view"
+                                            "?usp=sharing",
 }
 
 # --- Job Reference ---
