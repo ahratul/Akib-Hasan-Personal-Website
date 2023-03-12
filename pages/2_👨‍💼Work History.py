@@ -30,7 +30,7 @@ st.write("01/03/2023- Present")
 st.write("---")
 
 
-st.write("🚧", "** Working Student Software Developer | Resolve Biosciences **")
+st.write("🚧", "** Working Student Software Developer | Resolve Biosciences GMBH **")
 st.write("📍 Monheim am Rhein, North Rhine-Westphalia ,Germany 🇩🇪")
 st.write("Part-Time")
 st.write("15/11/2022-28/02/2023")
@@ -39,7 +39,7 @@ st.write("---")
 
 # --- JOB 2
 
-st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions**")
+st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions GMBH **")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
 st.write("Full-time")
 st.write("10/2021 - 12/2021")
@@ -57,7 +57,7 @@ st.write("---")
 
 # --- JOB 3
 st.write('\n')
-st.write("🚧", "** Working Student Software Developer | xarvio® Digital Farming Solutions**")
+st.write("🚧", "** Working Student Software Developer | xarvio® Digital Farming Solutions GMBH **")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
 st.write("Part-Time")
 st.write("01/2022 - 08/2022")
