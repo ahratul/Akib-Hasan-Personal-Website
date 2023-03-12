@@ -59,7 +59,7 @@ st.write("---")
 st.write('\n')
 st.write("🚧", "** Working Student Software Developer | xarvio® Digital Farming Solutions GMBH **")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
-st.write("Employment type Part-Time")
+st.write("Employment type: Part-Time")
 st.write("01/2022 - 08/2022")
 st.write(
     """
