@@ -23,6 +23,8 @@ HANDS_ON_PROJECT = {
 }
 
 PROJECTS = {
+    "🏆  Kubernetes in AWS: Create Cluster in EKS in your own VPC": "https://www.coursera.org/account/accomplishments/certificate/ME6BZKG2HVLN",
+    "🏆  Kubernetes: Basic Architecture and First Deployment": "https://www.coursera.org/account/accomplishments/certificate/6P3T7ZS3VEXT",
     "🏆  Build a Machine Learning Web App with Streamlit and Python": "https://www.coursera.org/account/accomplishments/certificate/X39R728EYLHU",
     "🏆  Create digit recognition web app with Streamlit": 'https://www.coursera.org/account/accomplishments/certificate/YMB27RX2SU25',
     "🏆  Deploy a Web Application in AWS Elastic Kubernetes Service": "https://www.coursera.org/account/accomplishments/certificate/7X7PBM4NNY9U",
