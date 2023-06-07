@@ -80,8 +80,12 @@ st.write(
 """
 )
 
-JOB_REFERENCE = {
-    "Job Reference From Previous Company ": "https://drive.google.com/file/d/1GeWT2y0mgHR9uiZOwXa3yQrQdOC_WbYX/view"
+JOB_REFERENCE1 = {
+    "Job Reference From BASF ": "https://drive.google.com/file/d/1GeWT2y0mgHR9uiZOwXa3yQrQdOC_WbYX/view"
+                                            "?usp=sharing",
+}
+JOB_REFERENCE1 = {
+    "Job Reference From BASF ": "https://drive.google.com/file/d/1GeWT2y0mgHR9uiZOwXa3yQrQdOC_WbYX/view"
                                             "?usp=sharing",
 }
 
