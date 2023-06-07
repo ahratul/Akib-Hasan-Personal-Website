@@ -84,13 +84,9 @@ JOB_REFERENCE = {
     "Job Reference From BASF ": "https://drive.google.com/file/d/1GeWT2y0mgHR9uiZOwXa3yQrQdOC_WbYX/view"
                                             "?usp=sharing",
     
-    "Job Reference From BASF 23": "https://drive.google.com/file/d/1GeWT2y0mgHR9uiZOwXa3yQrQdOC_WbYX/view"
-                                            "?usp=sharing",
+    "Job Reference From Resolve Biosciences GMBH": "https://drive.google.com/file/d/1F8FeQgT13Oi5JwAXB8dEiASJLD5xBjk6/view?usp=sharing",
  }
-# JOB_REFERENCE1 = {
-#     "Job Reference From BASF ": "https://drive.google.com/file/d/1GeWT2y0mgHR9uiZOwXa3yQrQdOC_WbYX/view"
-#                                             "?usp=sharing",
-# }
+
 
 # --- Job Reference ---
 st.write('\n')
