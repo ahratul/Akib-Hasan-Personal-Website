@@ -20,9 +20,6 @@ st.write("01/05/2023- Present")
 
 st.write("---")
 
-
-st.write("---")
-
 # --- JOB 2
 st.write("🚧", "** DevOps Engineer | SPYCE5 GMBH **")
 st.write("📍 Berlin ,Germany 🇩🇪")
