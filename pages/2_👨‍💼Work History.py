@@ -22,18 +22,17 @@ st.write("---")
 
 
 st.write("---")
-# --- JOB 2
 
+# --- JOB 2
 st.write("🚧", "** DevOps Engineer | SPYCE5 GMBH **")
 st.write("📍 Berlin ,Germany 🇩🇪")
 st.write("Employment type: Part-Time")
 st.write("01/03/2023- 01/05/2023")
-
+st.write(
     """
 - ► Led the design and implementation of AWS solutions for diverse clients, demonstrating expertise in architecting scalable and secure cloud infrastructure.
 - ► Played a key role in enhancing security by implementing IAM policies, VPC configurations, and best practices for data protection.
 - ► Demonstrated proficiency in architecting solutions using services like EC2, S3, RDS, and Lambda, ensuring high availability and fault tolerance.
-
 """
 )
 
