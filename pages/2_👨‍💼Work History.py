@@ -9,15 +9,6 @@ st.write('\n')
 st.subheader(                       "👨‍💼Work History👨‍💼"                   )
 with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
     time.sleep(2)
-st.write("---")
-
-st.markdown("Current Job")
-st.write("🚧", "** DevOps Engineer | SPYCE5 GMBH **")
-st.write("📍 Berlin ,Germany 🇩🇪")
-st.write("Employment type: Part-Time")
-st.write("01/03/2023- Present")
-
-st.write("---")
 
 
 
@@ -25,10 +16,29 @@ st.write("---")
 st.write("🚧", "** Master Thesis Student | Fraunhofer Institute for Production Technology IPT **")
 st.write("📍 Aachen, North Rhine-Westphalia ,Germany 🇩🇪")
 st.write("Employment type: Full-Time")
-st.write("01/03/2023- Present")
+st.write("01/05/2023- Present")
 
 st.write("---")
 
+
+st.write("---")
+# --- JOB 2
+
+st.write("🚧", "** DevOps Engineer | SPYCE5 GMBH **")
+st.write("📍 Berlin ,Germany 🇩🇪")
+st.write("Employment type: Part-Time")
+st.write("01/03/2023- 01/05/2023")
+
+    """
+- ► Led the design and implementation of AWS solutions for diverse clients, demonstrating expertise in architecting scalable and secure cloud infrastructure.
+- ► Played a key role in enhancing security by implementing IAM policies, VPC configurations, and best practices for data protection.
+- ► Demonstrated proficiency in architecting solutions using services like EC2, S3, RDS, and Lambda, ensuring high availability and fault tolerance.
+
+"""
+)
+
+
+# --- JOB 3
 
 st.write("🚧", "** Working Student Software Developer | Resolve Biosciences GMBH **")
 st.write("📍 Monheim am Rhein, North Rhine-Westphalia ,Germany 🇩🇪")
@@ -45,7 +55,7 @@ st.write(
 
 st.write("---")
 
-# --- JOB 2
+# --- JOB 4
 
 st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions GMBH **")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
@@ -63,7 +73,7 @@ st.write(
 
 st.write("---")
 
-# --- JOB 3
+# --- JOB 5
 st.write('\n')
 st.write("🚧", "** Working Student Software Developer | xarvio® Digital Farming Solutions GMBH **")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
