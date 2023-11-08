@@ -73,7 +73,7 @@ st.write(
 st.write("---")
 
 # --- JOB 4
-st.write("---")
+
 st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions GMBH **")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
 st.write("Employment type: Full-time")
