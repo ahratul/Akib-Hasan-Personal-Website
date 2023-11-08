@@ -52,24 +52,6 @@ st.write(
 
 st.write("---")
 
-# --- JOB 4
-st.write("---")
-st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions GMBH **")
-st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
-st.write("Employment type: Full-time")
-st.write("10/2021 - 12/2021")
-st.write(
-    """
-- ► Cleaned unstructured data for data analysis and Confidential tasks and pipelines.
-- ► Analyzed over 22 years data (2000-2022) to make Dose Response model
-- ► Used Python and the Soil API to get raw data and reprocessed it for a data science tasks .
-- ► Used Natural Language Processing ML libraries to train a Robust Regression model for Nonlinear data analysis.
-"""
-)
-
-
-st.write("---")
-
 # --- JOB 5
 st.write('\n')
 st.write("🚧", "** Working Student Software Developer | xarvio® Digital Farming Solutions GMBH **")
@@ -86,6 +68,27 @@ st.write(
 
 """
 )
+
+
+st.write("---")
+
+# --- JOB 4
+st.write("---")
+st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions GMBH **")
+st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
+st.write("Employment type: Full-time")
+st.write("10/2021 - 12/2021")
+st.write(
+    """
+- ► Cleaned unstructured data for data analysis and Confidential tasks and pipelines.
+- ► Analyzed over 22 years data (2000-2022) to make Dose Response model
+- ► Used Python and the Soil API to get raw data and reprocessed it for a data science tasks .
+- ► Used Natural Language Processing ML libraries to train a Robust Regression model for Nonlinear data analysis.
+"""
+)
+
+st.write("---")
+
 
 JOB_REFERENCE = {
     "Job Reference From BASF ": "https://drive.google.com/file/d/1GeWT2y0mgHR9uiZOwXa3yQrQdOC_WbYX/view"
