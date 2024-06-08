@@ -83,6 +83,7 @@ st.subheader("Hard Skills")
 st.write(
     """
  Part 1
+ 
      💻 Computer Hardware
      🛠️ Technical Support
      ☁️ Cloud-Based System Management
@@ -92,7 +93,9 @@ Part 2
      📝 IT Ticketing Process Optimization
      🔍 System Auditing and Vulnerability Management
      📚 IT Documentation Management
+     
 Part 3
+
      🏃‍♂️ Agile Methodologies
      🎓 Cisco Certified
      🖥️ Windows Server
