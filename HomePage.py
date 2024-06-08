@@ -13,7 +13,8 @@ profile_pic = current_dir / "assets" / "cv.jpg"
 PAGE_TITLE = "Serendipity | Md Akib Hasan"
 PAGE_ICON = "✨"
 NAME = "Md Akib Hasan"
-DESCRIPTION = """ I am an experienced IT professional with over 5 years of diverse experience in IT
+DESCRIPTION = """
+I am an experienced IT professional with over 5 years of diverse experience in IT
 support, IT administration, network engineering, DevOps, and backend development. I
 am currently pursuing a Master's in Communication System and Networking at
 Technische Hochschule Köln, with one course remaining to complete. I am proficient in
