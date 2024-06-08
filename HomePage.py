@@ -78,34 +78,38 @@ st.write(
 )
 
 # --- SKILLS ---
+# --- SKILLS ---
 st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
--> 💻 Computer Hardware
--> 🛠️ Technical Support
--> ☁️ Cloud-Based System Management
--> 📝 IT Ticketing Process Optimization
--> 🔍 System Auditing and Vulnerability Management
--> 📚 IT Documentation Management
--> 🏃‍♂️ Agile Methodologies
--> 🎓 Cisco Certified
--> 🖥️ Windows Server
--> 🔥 Firewalls, VMware
--> 🖇️ Microsoft Office
--> 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, Big Query
--> 📊 Data Visualization: PowerBi, Plotly
--> 📚 Modeling: Logistic Regression, Linear Regression, Decision Tree, Neural Network, Anomaly Detection
--> ☁️ Cloud Computing: AWS, GCP, Oracle, Azure
--> 🗄️ Databases: Postgres, MongoDB, MySQL, Oracle
--> 🧮 API: Flask, FastAPI, Lambda
-->📎 Microsoft Office: Word, PowerPoint, Excel
--> 🎛️ Repository: GitHub, Bitbucket
--> 🐛 Debugging
-
-"""
+    <div style="text-align: justify; color: black;">
+    <ul style="list-style-type: none; padding-left: 0;">
+        <li>💻 Computer Hardware</li>
+        <li>🛠️ Technical Support</li>
+        <li>☁️ Cloud-Based System Management</li>
+        <li>📝 IT Ticketing Process Optimization</li>
+        <li>🔍 System Auditing and Vulnerability Management</li>
+        <li>📚 IT Documentation Management</li>
+        <li>🏃‍♂️ Agile Methodologies</li>
+        <li>🎓 Cisco Certified</li>
+        <li>🖥️ Windows Server</li>
+        <li>🔥 Firewalls, VMware</li>
+        <li>🖇️ Microsoft Office</li>
+        <li>👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, Big Query</li>
+        <li>📊 Data Visualization: PowerBi, Plotly</li>
+        <li>📚 Modeling: Logistic Regression, Linear Regression, Decision Tree, Neural Network, Anomaly Detection</li>
+        <li>☁️ Cloud Computing: AWS, GCP, Oracle, Azure</li>
+        <li>🗄️ Databases: Postgres, MongoDB, MySQL, Oracle</li>
+        <li>🧮 API: Flask, FastAPI, Lambda</li>
+        <li>📎 Microsoft Office: Word, PowerPoint, Excel</li>
+        <li>🎛️ Repository: GitHub, Bitbucket</li>
+        <li>🐛 Debugging</li>
+    </ul>
+    </div>
+    """,
+    unsafe_allow_html=True
 )
-
 
 def local_css(file_name):
     with open(file_name) as f:
