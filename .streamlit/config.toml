@@ -1,11 +1,25 @@
-[theme]
-primaryColor = "#e27a4a"  # Warm orange for better readability
+[theme.light]
+# Primary accent color for interactive elements.
+primaryColor = "#7f90b8"  # Adjusted for comfort
 
 # Background color for the main content area.
-backgroundColor = "#ffe6cc"  # Warm light peach for a comfortable background
+backgroundColor = "#f2f2f2"  # Adjusted for comfort
 
 # Background color used for the sidebar and most interactive widgets.
-secondaryBackgroundColor = "#ffcc99"  # Soft warm peach for a pleasant sidebar experience
+secondaryBackgroundColor = "#c3d2e4"  # Adjusted for comfort
 
 # Color used for almost all text.
-textColor = "#000000"  # Black for clear and comfortable reading
+textColor = "#333333"  # Adjusted for comfort
+
+[theme.dark]
+# Primary accent color for interactive elements in dark mode.
+primaryColor = "#a2a2a2"  # Adjusted for dark mode
+
+# Background color for the main content area in dark mode.
+backgroundColor = "#121212"  # Adjusted for dark mode
+
+# Background color used for the sidebar and most interactive widgets in dark mode.
+secondaryBackgroundColor = "#2a2a2a"  # Adjusted for dark mode
+
+# Color used for almost all text in dark mode.
+textColor = "#ffffff"  # Adjusted for dark mode
