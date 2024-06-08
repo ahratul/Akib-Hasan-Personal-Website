@@ -1,12 +1,12 @@
-[theme]
 # Primary accent color for interactive elements.
-primaryColor = "#7f90b8"  # Adjusted for comfort
+primaryColor = "#4a90e2"  # Cool blue for better readability
 
 # Background color for the main content area.
-backgroundColor = "#f2f2f2"  # Adjusted for comfort
+backgroundColor = "#e6f7ff"  # Light blue for a cooler background
 
 # Background color used for the sidebar and most interactive widgets.
-secondaryBackgroundColor = "#c3d2e4"  # Adjusted for comfort
+secondaryBackgroundColor = "#b3cde3"  # Soft blue for a pleasant sidebar experience
 
 # Color used for almost all text.
-textColor = "#333333"  # Adjusted for comfort
+textColor = "#2c3e50"  # Dark blue for clear and comfortable reading
+
