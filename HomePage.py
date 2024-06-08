@@ -14,16 +14,7 @@ PAGE_TITLE = "Serendipity | Md Akib Hasan"
 PAGE_ICON = "✨"
 NAME = "Md Akib Hasan"
 DESCRIPTION = """
-<div style="border: 2px solid black; border-radius: 10px; padding: 10px; text-align: justify;">
-    I am an experienced IT professional with over 5 years of diverse experience in IT
-    support, IT administration, network engineering, DevOps, and backend development. I
-    am currently pursuing a Master's in Communication System and Networking at
-    Technische Hochschule Köln, with one course remaining to complete. I am proficient in
-    English and at an intermediate level in German. My expertise includes solving complex
-    problems, network configuration, NAS, Linux, SOPHOS Firewall, SOPHOS Access Points,
-    and Cisco devices. I am seeking a full-time position where I can leverage my skills and
-    continue to grow professionally.
-</div>
+I am an experienced IT professional with over 5 years of diverse experience in IT support, IT administration, network engineering, DevOps, and backend development. I am currently pursuing a Master's in Communication System and Networking at Technische Hochschule Köln, with one course remaining to complete. I am proficient in English and at an intermediate level in German. My expertise includes solving complex problems, network configuration, NAS, Linux, SOPHOS Firewall, SOPHOS Access Points, and Cisco devices. I am seeking a full-time position where I can leverage my skills and continue to grow professionally. 
 """
 
 
