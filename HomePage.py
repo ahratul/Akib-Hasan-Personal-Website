@@ -27,8 +27,8 @@ continue to grow professionally.
 EMAIL = "ahratul740@gmail.com"
 
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://www.linkedin.com/in/akibhasanratul/",
-    "GitHub": "https://github.com/ahratul",
+    "🌐 LinkedIn": "https://www.linkedin.com/in/akibhasanratul/",
+    "🐙 GitHub": "https://github.com/ahratul",
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
