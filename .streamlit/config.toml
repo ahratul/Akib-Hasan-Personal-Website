@@ -1,12 +1,5 @@
 [theme.dark]
-# Primary accent color for interactive elements in dark mode.
-primaryColor = "#a2a2a2"  # Adjusted for dark mode
-
-# Background color for the main content area in dark mode.
-backgroundColor = "#121212"  # Adjusted for dark mode
-
-# Background color used for the sidebar and most interactive widgets in dark mode.
-secondaryBackgroundColor = "#2a2a2a"  # Adjusted for dark mode
-
-# Color used for almost all text in dark mode.
-textColor = "#ffffff"  # Adjusted for dark mode
+primaryColor = "#d8d8d8"  # Warmer shade for interactive elements in dark mode
+backgroundColor = "#1a1a1a"  # Soothing background color for the main content area in dark mode
+secondaryBackgroundColor = "#383838"  # Warm hue for the sidebar and interactive widgets in dark mode
+textColor = "#f2f2f2"  # Soft, warmer text color in dark mode
