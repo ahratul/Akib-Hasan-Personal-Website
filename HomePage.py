@@ -82,38 +82,26 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
- Part 1
- 
-     💻 Computer Hardware
-     🛠️ Technical Support
-     ☁️ Cloud-Based System Management
-     
-Part 2
-
-     📝 IT Ticketing Process Optimization
-     🔍 System Auditing and Vulnerability Management
-     📚 IT Documentation Management
-     
-Part 3
-
-     🏃‍♂️ Agile Methodologies
-     🎓 Cisco Certified
-     🖥️ Windows Server
-     🔥 Firewalls, VMware
-     🖇️ Microsoft Office
-
- Part 4
-    
-     👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, Big Query
-     📊 Data Visualization: PowerBi, Plotly
-     📚 Modeling: Logistic Regression, Linear regression, Decision tree, Neural Network, Anomaly Detection
-     ☁ Cloud Computing: AWS, GCP, Oracle, Azure
-     🗄️ Databases: Postgres, MongoDB, MySQL, Oracle
-     🧮 API: Flask, FastAPI, Lambda
-     📎 Microsoft Office: Word, PowerPoint, Excel
-     🎛️ Repository: GitHub, Bitbucket
-     🐛 Debugging
-
+💻 Computer Hardware
+🛠️ Technical Support
+☁️ Cloud-Based System Management
+📝 IT Ticketing Process Optimization
+🔍 System Auditing and Vulnerability Management
+📚 IT Documentation Management
+🏃‍♂️ Agile Methodologies
+🎓 Cisco Certified
+🖥️ Windows Server
+🔥 Firewalls, VMware
+🖇️ Microsoft Office
+👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, Big Query
+📊 Data Visualization: PowerBi, Plotly
+📚 Modeling: Logistic Regression, Linear Regression, Decision Tree, Neural Network, Anomaly Detection
+☁️ Cloud Computing: AWS, GCP, Oracle, Azure
+🗄️ Databases: Postgres, MongoDB, MySQL, Oracle
+🧮 API: Flask, FastAPI, Lambda
+📎 Microsoft Office: Word, PowerPoint, Excel
+🎛️ Repository: GitHub, Bitbucket
+🐛 Debugging
 
 
 """
