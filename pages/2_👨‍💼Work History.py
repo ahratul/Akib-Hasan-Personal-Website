@@ -131,6 +131,7 @@ JOB_REFERENCE = {
                                             "?usp=sharing",
     
     "Job Reference From Resolve Biosciences GMBH": "https://drive.google.com/file/d/1F8FeQgT13Oi5JwAXB8dEiASJLD5xBjk6/view?usp=sharing",
+    "Job Reference From Fraunhofer Institute for Production Technology IPT": "https://drive.google.com/file/d/1OI0wR2C55b2QAymEXDw1kvWftX-4lRdA/view?usp=sharing",
  }
 
 
