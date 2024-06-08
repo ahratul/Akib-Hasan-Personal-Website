@@ -11,16 +11,52 @@ with hc.HyLoader('LOADING', hc.Loaders.standard_loaders, index=[2, 2, 2, 2]):
     time.sleep(2)
 
 
-
 # --- JOB 1
-st.write("🚧", "** Master Thesis Student | Fraunhofer Institute for Production Technology IPT **")
-st.write("📍 Aachen, North Rhine-Westphalia ,Germany 🇩🇪")
-st.write("Employment type: Full-Time")
-st.write("01/05/2023- Present")
+st.write("🚧", "** IT Administrator |  REHUB digitale Planer **")
+st.write("📍 Köln, North Rhine-Westphalia ,Germany 🇩🇪")
+st.write("Employment type: Part-Time")
+st.write("01/01/2023- Present")
+st.write(
+    """
+- ► Supported and maintained all company data and technological infrastructure for
+    both international and nationwide locations.
+- ► Upgraded, repaired, and configured computers, application software, servers, and
+    various other peripherals.
+- ► Provided end-user and remote support and technical assistance for server and
+    client computers, enterprise applications, telecommunication systems, network
+    components, etc.
+- ► Provide initial response and manage problem resolution process for outages and
+    problems.
+- ► Supports server, network, and desktop-based software and applications.
+- ► Provides day-to-day technical support to employee’s desktop systems software &
+    hardware.
+- ► Highly developed verbal and written communications
+- ► Demonstrated knowledge of TCP/IP networking and the OSI model.
+
+"""
+)
 
 st.write("---")
 
 # --- JOB 2
+st.write("🚧", "** Master Thesis Student | Fraunhofer Institute for Production Technology IPT **")
+st.write("📍 Aachen, North Rhine-Westphalia ,Germany 🇩🇪")
+st.write("Employment type: Full-Time")
+st.write("01/05/2023- 30/11/2023")
+st.write(
+    """
+- ► Developed and successfully implemented a novel cyber-attack detection system
+    utilizing Long Short-Term Memory (LSTM) neural networks in conjunction with side
+    sensor data from CNC machines
+- ► Demonstrated a deep understanding of cybersecurity principles and the ability to
+    apply cutting-edge machine-learning techniques to enhance the security of critical
+    industrial systems.
+"""
+)
+
+st.write("---")
+
+# --- JOB 3
 st.write("🚧", "** DevOps Engineer | SPYCE5 GMBH **")
 st.write("📍 Berlin ,Germany 🇩🇪")
 st.write("Employment type: Part-Time")
@@ -34,7 +70,7 @@ st.write(
 )
 
 
-# --- JOB 3
+# --- JOB 4
 st.write("---")
 
 st.write("🚧", "** Working Student Software Developer | Resolve Biosciences GMBH **")
@@ -72,7 +108,7 @@ st.write(
 
 st.write("---")
 
-# --- JOB 4
+# --- JOB 6
 
 st.write("🚧", "** Internship in Data Analyst | xarvio® Digital Farming Solutions GMBH **")
 st.write("📍 Cologne, North Rhine-Westphalia ,Germany 🇩🇪")
