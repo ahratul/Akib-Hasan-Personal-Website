@@ -1,44 +1,27 @@
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
-}
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
 
-.hero {
-    display: flex;
-    align-items: center;
-    padding: 20px;
-    background: #fff;
-}
 
-.profile-pic {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    margin-right: 20px;
-}
+* {font-family: 'Readex Pro';}
 
-.btn {
-    display: inline-block;
-    padding: 10px 20px;
-    background: #0073e6;
-    color: #fff;
+
+a {
     text-decoration: none;
-    border-radius: 5px;
-    margin-top: 10px;
+    color: white !important;
+    font-weight: 500;
 }
 
-#social-media ul,
-#experience ul,
-#skills ul {
-    list-style: none;
-    padding: 0;
-}
-
-#social-media ul li a {
+a:hover {
+    color: #d33682 !important;
     text-decoration: none;
-    color: #0073e6;
 }
+
+ul {list-style-type: none;}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
