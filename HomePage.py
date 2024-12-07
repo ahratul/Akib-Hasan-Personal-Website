@@ -113,7 +113,7 @@ def local_css(file_name):
 local_css("styles/style.css")
 
 # Load Animation
-animation_symbol = "❄"
+animation_symbol = "🪮"
 
 st.markdown(
     f"""
